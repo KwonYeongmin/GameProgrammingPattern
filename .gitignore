@@ -1,0 +1,10 @@
+# 모든 파일을 무시
+*
+
+# .gitignore 파일 자체는 버전 관리에 포함
+!.gitignore
+
+# 특정 파일들만 예외로 포함
+!GameProgrammingPattern.vcxproj
+!GameProgrammingPattern.vcxproj.filters
+!GameProgrammingPattern.vcxproj.user
